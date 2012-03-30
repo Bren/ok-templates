@@ -10,7 +10,8 @@ the design and send a pull request
 Quick Start
 -----------
 
-* Clone the repo: ``git clone git@github.com:daonb/ok-templates.git``
+* Fork the repo: ``ok-templates.git`` by using the fork button that's on the top-right of the page, under your username
+* Clone the repo: ``git clone git@github.com:yourusername/ok-templates.git``
 * if you don't have python installed (you can test for it by typing 
   ``python`` on your prompt) get it from http://www.python.org/download/.
   Version 2.7.2 is best
